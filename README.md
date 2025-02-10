@@ -1,5 +1,7 @@
 # DETAYLI ZAMAN FARKI HESAPLAYICI
-## ÖZELLİKLER Bu program, kullanıcının tarih ve saat bilgilerini manuel olarak girdiği ve sonucu saniye cinsinden hesaplayan bir koddur.
+## ÖZELLİKLER 
+
+Bu program, kullanıcının tarih ve saat bilgilerini manuel olarak girdiği ve sonucu saniye cinsinden hesaplayan bir koddur.
 
 ## KULLANIM ALANLARI
 
@@ -17,5 +19,5 @@ Bu program tamamen C dili ile yazılmıştır.
 ## NASIL ÇALIŞTIRILIR? 
 Programı çalıştırmak için bir C dili derleyicisine ihtiyacınız olacak.
 
-## Tavsiye Edilen Araçlar:
+### Tavsiye Edilen Araçlar:
 İnternete bağlı olmadan kullanılabilecek çevrimiçi derleyici: <a href="https://www.onlinegdb.com/online_c_compiler">Online C Compiler</a>
