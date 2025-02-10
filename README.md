@@ -18,4 +18,4 @@ Bu program tamamen C dili ile yazılmıştır.
 Programı çalıştırmak için bir C dili derleyicisine ihtiyacınız olacak.
 
 ## Tavsiye Edilen Araçlar:
-İnternete bağlı olmadan kullanılabilecek çevrimiçi derleyici: Online C Compiler
+İnternete bağlı olmadan kullanılabilecek çevrimiçi derleyici: <a href="https://www.onlinegdb.com/online_c_compiler">Online C Compiler</a>
